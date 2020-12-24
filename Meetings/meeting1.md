@@ -7,6 +7,6 @@ Maíra Santos
 Joe Rontondi  
 Kat Miroshnikova  
 Sprout
-Ryan Kalish
+Ryan Kalish  
 Jordan Bryant
 
