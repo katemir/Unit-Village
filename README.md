@@ -14,10 +14,8 @@ Age - 20s(20%), 30s(20%), 40s(20%), 50s(20%), 60s(20%)
 2 Kat Miroshnikova  
 3 Maíra Santos   
 4 Joe Rontondi  
-5 Sprout  
 6 Ryan Kalish  
 7 Jordan Bryant  
-43 places remaining
 
 # Token Distribution
 300,000 UVT 30% - Nyani  
